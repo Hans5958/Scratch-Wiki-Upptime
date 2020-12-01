@@ -1,0 +1,42 @@
+owner: Hans5958
+repo: Scratch-Wiki-Upptime
+
+sites:
+  - name: Portal
+    url: https://scratch-wiki.info
+  - name: English
+    url: https://en.scratch-wiki.info
+  - name: German
+    url: https://de.scratch-wiki.info
+  - name: French
+    url: https://fr.scratch-wiki.info
+  - name: Japanese
+    url: https://ja.scratch-wiki.info
+  - name: Dutch
+    url: https://nl.scratch-wiki.info
+  - name: Russian
+    url: https://ru.scratch-wiki.info
+  - name: Indonesian
+    url: https://id.scratch-wiki.info
+  - name: Hungarian
+    url: https://hu.scratch-wiki.info 
+  - name: Test
+    url: https://test.scratch-wiki.info 
+
+status-website:
+  name: Scratch Wiki Upptime (unofficial)
+  introTitle: Welcome to **[Scratch Wiki](https://scratch-wiki.info)**'s (unofficial) Upptime status page.
+  introMessage: This is the status page for subdomains of [Scratch Wiki](https://scratch-wiki.info). It monitors them for free using GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+user-agent: Auto5958
+commitMessages:
+  commitAuthorName: Auto5958
+  commitAuthorEmail: 69833949+Auto5958@users.noreply.github.com
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
