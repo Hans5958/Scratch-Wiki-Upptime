@@ -5,7 +5,7 @@
     "slug": "portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1027
+    "time": 906
   },
   {
     "name": "English",
@@ -13,7 +13,7 @@
     "slug": "english",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1100
+    "time": 934
   },
   {
     "name": "German",
@@ -21,7 +21,7 @@
     "slug": "german",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1227
+    "time": 1148
   },
   {
     "name": "French",
@@ -29,7 +29,7 @@
     "slug": "french",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1355
+    "time": 1165
   },
   {
     "name": "Japanese",
@@ -37,7 +37,7 @@
     "slug": "japanese",
     "status": "up",
     "uptime": "100.00%",
-    "time": 686
+    "time": 675
   },
   {
     "name": "Dutch",
@@ -45,7 +45,7 @@
     "slug": "dutch",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1382
+    "time": 1280
   },
   {
     "name": "Russian",
@@ -53,7 +53,7 @@
     "slug": "russian",
     "status": "up",
     "uptime": "100.00%",
-    "time": 719
+    "time": 684
   },
   {
     "name": "Indonesian",
@@ -61,7 +61,7 @@
     "slug": "indonesian",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1312
+    "time": 1260
   },
   {
     "name": "Hungarian",
@@ -69,7 +69,7 @@
     "slug": "hungarian",
     "status": "up",
     "uptime": "100.00%",
-    "time": 697
+    "time": 779
   },
   {
     "name": "Test",
@@ -77,6 +77,6 @@
     "slug": "test",
     "status": "up",
     "uptime": "100.00%",
-    "time": 735
+    "time": 661
   }
 ]
