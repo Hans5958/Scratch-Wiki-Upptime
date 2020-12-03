@@ -25,6 +25,7 @@ sites:
 
 status-website:
   name: Scratch Wiki Upptime (unofficial)
+  cname: scratch-wiki-upptime.netlify.app
   introTitle: Welcome to **[Scratch Wiki](https://scratch-wiki.info)**'s (unofficial) Upptime status page.
   introMessage: This is the status page for subdomains of [Scratch Wiki](https://scratch-wiki.info). It monitors them for free using GitHub services, thanks to [Upptime](https://github.com/upptime/upptime).
   navbar:
