@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Portal",
+    "url": "https://scratch-wiki.info",
+    "slug": "portal",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1027
+  },
+  {
+    "name": "English",
+    "url": "https://en.scratch-wiki.info",
+    "slug": "english",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1100
+  },
+  {
+    "name": "German",
+    "url": "https://de.scratch-wiki.info",
+    "slug": "german",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1227
+  },
+  {
+    "name": "French",
+    "url": "https://fr.scratch-wiki.info",
+    "slug": "french",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1355
+  },
+  {
+    "name": "Japanese",
+    "url": "https://ja.scratch-wiki.info",
+    "slug": "japanese",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 686
+  },
+  {
+    "name": "Dutch",
+    "url": "https://nl.scratch-wiki.info",
+    "slug": "dutch",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1382
+  },
+  {
+    "name": "Russian",
+    "url": "https://ru.scratch-wiki.info",
+    "slug": "russian",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 719
+  },
+  {
+    "name": "Indonesian",
+    "url": "https://id.scratch-wiki.info",
+    "slug": "indonesian",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1312
+  },
+  {
+    "name": "Hungarian",
+    "url": "https://hu.scratch-wiki.info",
+    "slug": "hungarian",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 697
+  },
+  {
+    "name": "Test",
+    "url": "https://test.scratch-wiki.info",
+    "slug": "test",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 735
+  }
+]
