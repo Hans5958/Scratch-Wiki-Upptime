@@ -22,18 +22,20 @@
     "url": "https://en.scratch-wiki.info",
     "icon": "https://favicons.githubusercontent.com/en.scratch-wiki.info",
     "slug": "english",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 1272,
-    "timeWeek": 1043,
-    "timeMonth": 957,
-    "timeYear": 957,
-    "dailyMinutesDown": {}
+    "time": 1167,
+    "timeDay": 3834,
+    "timeWeek": 1712,
+    "timeMonth": 1167,
+    "timeYear": 1167,
+    "dailyMinutesDown": {
+      "2020-12-25": 0
+    }
   },
   {
     "name": "German",
