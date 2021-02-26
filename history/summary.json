@@ -113,18 +113,20 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://favicons.githubusercontent.com/nl.scratch-wiki.info",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 1410,
-    "timeWeek": 993,
-    "timeMonth": 924,
-    "timeYear": 995,
-    "dailyMinutesDown": {}
+    "time": 989,
+    "timeDay": 936,
+    "timeWeek": 926,
+    "timeMonth": 909,
+    "timeYear": 989,
+    "dailyMinutesDown": {
+      "2021-02-26": 0
+    }
   },
   {
     "name": "Russian",
