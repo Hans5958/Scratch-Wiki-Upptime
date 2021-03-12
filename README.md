@@ -16,7 +16,7 @@ The page and it's repository only checks a subset of the services that are prese
 
 - Scratch Upptime ([website](https://scratch-upptime.netlify.app), [repository](https://github.com/Hans5958/Scratch-Wiki-Upptime))  
   For known/important services that are frequently used
-- Scratch Upptime 2 ([website](https://scratch-upptime-2.netlify.app), [repository](https://github.com/Hans5958/Scratch-Wiki-Upptime-2))  
+- Scratch Upptime 2 ([website](https://scratch-upptime-2.netlify.app), [repository](https://github.com/Hans5958/Scratch-Upptime-2))  
   For less-known services, staging/beta/alpha services, redirects, etc
 - Scratch Wiki Upptime ([website](https://scratch-wiki-upptime.netlify.app), [repository](https://github.com/Hans5958/Scratch-Wiki-Upptime))  
   For all the Scratch Wiki subdomains
