@@ -4,17 +4,17 @@
     "url": "https://scratch-wiki.info",
     "icon": "https://favicons.githubusercontent.com/scratch-wiki.info",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1051,
-    "timeDay": 989,
-    "timeWeek": 825,
-    "timeMonth": 949,
-    "timeYear": 1051,
+    "time": 1054,
+    "timeDay": 1249,
+    "timeWeek": 911,
+    "timeMonth": 966,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2021-01-06": 21
     }
