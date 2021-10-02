@@ -1,7 +1,7 @@
 url: https://nl.scratch-wiki.info
-status: up
-code: 200
-responseTime: 16992
-lastUpdated: 2021-10-02T05:09:42.333Z
+status: down
+code: 500
+responseTime: 654
+lastUpdated: 2021-10-02T05:25:24.949Z
 startTime: Thu Dec 03 2020 14:46:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
