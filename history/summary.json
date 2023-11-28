@@ -6,16 +6,17 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "97.01%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "99.42%",
     "time": 2017,
-    "timeDay": 1151,
-    "timeWeek": 1312,
-    "timeMonth": 3024,
-    "timeYear": 2193,
+    "timeDay": 1343,
+    "timeWeek": 1329,
+    "timeMonth": 2996,
+    "timeYear": 2191,
     "dailyMinutesDown": {
+      "2023-11-28": 12,
       "2023-11-26": 15,
       "2023-11-22": 17,
       "2023-11-15": 24,
@@ -46,7 +47,7 @@
       "2023-09-21": 34,
       "2023-09-20": 139,
       "2023-09-19": 31,
-      "2023-09-18": 17
+      "2023-09-18": 8
     }
   },
   {
@@ -56,16 +57,17 @@
     "slug": "english",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "98.52%",
-    "time": 1715,
-    "timeDay": 1334,
-    "timeWeek": 2309,
-    "timeMonth": 2167,
-    "timeYear": 1802,
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "98.54%",
+    "time": 1716,
+    "timeDay": 1509,
+    "timeWeek": 2226,
+    "timeMonth": 2155,
+    "timeYear": 1801,
     "dailyMinutesDown": {
+      "2023-11-28": 12,
       "2023-11-26": 14,
       "2023-11-24": 16,
       "2023-11-22": 59,
@@ -115,8 +117,7 @@
       "2023-03-21": 321,
       "2023-03-13": 1120,
       "2023-03-12": 240,
-      "2023-01-25": 45,
-      "2022-12-15": 102
+      "2023-01-25": 45
     }
   },
   {
@@ -125,17 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/de.scratch-wiki.info.ico",
     "slug": "german",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "96.02%",
+    "uptime": "99.62%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "98.85%",
-    "time": 1873,
-    "timeDay": 1191,
-    "timeWeek": 2730,
-    "timeMonth": 2609,
-    "timeYear": 1954,
+    "time": 1874,
+    "timeDay": 1482,
+    "timeWeek": 2592,
+    "timeMonth": 2588,
+    "timeYear": 1953,
     "dailyMinutesDown": {
+      "2023-11-28": 12,
       "2023-11-26": 22,
       "2023-11-24": 16,
       "2023-11-22": 57,
@@ -182,7 +184,7 @@
       "2023-09-12": 150,
       "2023-09-11": 34,
       "2023-03-26": 127,
-      "2023-03-21": 36
+      "2023-03-21": 6
     }
   },
   {
@@ -192,16 +194,17 @@
     "slug": "french",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.22%",
-    "uptimeMonth": "72.71%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "92.45%",
+    "uptimeMonth": "72.68%",
     "uptimeYear": "96.51%",
-    "time": 1548,
-    "timeDay": 2027,
-    "timeWeek": 2584,
-    "timeMonth": 2045,
-    "timeYear": 1611,
+    "time": 1547,
+    "timeDay": 1334,
+    "timeWeek": 2371,
+    "timeMonth": 2022,
+    "timeYear": 1609,
     "dailyMinutesDown": {
+      "2023-11-28": 12,
       "2023-11-26": 22,
       "2023-11-24": 15,
       "2023-11-22": 552,
@@ -257,7 +260,7 @@
       "2023-03-26": 111,
       "2023-03-21": 79,
       "2023-03-20": 21,
-      "2023-03-13": 71
+      "2023-03-13": 56
     }
   },
   {
@@ -267,16 +270,17 @@
     "slug": "japanese",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "96.03%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "99.01%",
-    "time": 1413,
-    "timeDay": 1730,
-    "timeWeek": 1468,
-    "timeMonth": 1669,
-    "timeYear": 1453,
+    "time": 1385,
+    "timeDay": 1748,
+    "timeWeek": 1501,
+    "timeMonth": 1671,
+    "timeYear": 1454,
     "dailyMinutesDown": {
+      "2023-11-28": 12,
       "2023-11-27": 15,
       "2023-11-26": 21,
       "2023-11-24": 15,
@@ -324,7 +328,7 @@
       "2023-03-26": 145,
       "2023-03-21": 49,
       "2023-03-20": 21,
-      "2023-03-13": 81
+      "2023-03-13": 34
     }
   },
   {
@@ -333,17 +337,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "96.10%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.03%",
     "time": 1359,
-    "timeDay": 1275,
-    "timeWeek": 1274,
-    "timeMonth": 1781,
+    "timeDay": 1304,
+    "timeWeek": 1284,
+    "timeMonth": 1772,
     "timeYear": 1408,
     "dailyMinutesDown": {
+      "2023-11-28": 11,
       "2023-11-27": 15,
       "2023-11-26": 19,
       "2023-11-22": 20,
@@ -390,7 +395,7 @@
       "2023-04-20": 8,
       "2023-03-26": 136,
       "2023-03-21": 49,
-      "2023-03-13": 59
+      "2023-03-13": 34
     }
   },
   {
@@ -400,16 +405,17 @@
     "slug": "russian",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.04%",
     "time": 1429,
-    "timeDay": 1284,
-    "timeWeek": 1239,
-    "timeMonth": 1935,
-    "timeYear": 1523,
+    "timeDay": 1271,
+    "timeWeek": 1238,
+    "timeMonth": 1927,
+    "timeYear": 1522,
     "dailyMinutesDown": {
+      "2023-11-28": 11,
       "2023-11-27": 15,
       "2023-11-26": 34,
       "2023-11-22": 14,
@@ -456,7 +462,7 @@
       "2023-04-20": 8,
       "2023-03-26": 145,
       "2023-03-21": 49,
-      "2023-03-13": 34
+      "2023-03-13": 11
     }
   },
   {
@@ -466,16 +472,17 @@
     "slug": "indonesian",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "98.48%",
-    "time": 1416,
-    "timeDay": 1946,
-    "timeWeek": 1368,
-    "timeMonth": 1639,
-    "timeYear": 1507,
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "98.49%",
+    "time": 1417,
+    "timeDay": 1569,
+    "timeWeek": 1346,
+    "timeMonth": 1629,
+    "timeYear": 1506,
     "dailyMinutesDown": {
+      "2023-11-28": 11,
       "2023-11-27": 14,
       "2023-11-26": 34,
       "2023-11-22": 14,
@@ -524,7 +531,7 @@
       "2023-04-14": 8,
       "2023-03-26": 135,
       "2023-03-21": 41,
-      "2023-03-13": 101
+      "2023-03-13": 34
     }
   },
   {
@@ -534,16 +541,17 @@
     "slug": "hungarian",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "96.17%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.05%",
     "time": 1280,
-    "timeDay": 1210,
-    "timeWeek": 1152,
-    "timeMonth": 1759,
-    "timeYear": 1341,
+    "timeDay": 1155,
+    "timeWeek": 1142,
+    "timeMonth": 1744,
+    "timeYear": 1340,
     "dailyMinutesDown": {
+      "2023-11-28": 11,
       "2023-11-27": 14,
       "2023-11-26": 34,
       "2023-11-15": 19,
@@ -588,7 +596,7 @@
       "2023-09-11": 33,
       "2023-03-26": 137,
       "2023-03-21": 41,
-      "2023-03-13": 79
+      "2023-03-13": 69
     }
   },
   {
@@ -598,16 +606,17 @@
     "slug": "test",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "96.19%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "99.01%",
     "time": 1235,
-    "timeDay": 1122,
-    "timeWeek": 1145,
-    "timeMonth": 1631,
+    "timeDay": 1226,
+    "timeWeek": 1167,
+    "timeMonth": 1629,
     "timeYear": 1279,
     "dailyMinutesDown": {
+      "2023-11-28": 10,
       "2023-11-27": 13,
       "2023-11-26": 34,
       "2023-11-15": 19,
@@ -651,7 +660,7 @@
       "2023-09-11": 33,
       "2023-03-26": 137,
       "2023-03-21": 41,
-      "2023-03-13": 323
+      "2023-03-13": 298
     }
   }
 ]
