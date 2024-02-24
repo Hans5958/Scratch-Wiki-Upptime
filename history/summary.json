@@ -110,19 +110,19 @@
     "url": "https://de.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/de.scratch-wiki.info.ico",
     "slug": "german",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.65%",
-    "time": 2498,
+    "time": 2499,
     "timeDay": 10860,
     "timeWeek": 3943,
     "timeMonth": 2310,
     "timeYear": 2721,
     "dailyMinutesDown": {
-      "2024-02-24": 7,
+      "2024-02-24": 10,
       "2024-02-19": 8,
       "2024-02-13": 40,
       "2024-01-14": 39,
@@ -152,7 +152,7 @@
       "2023-12-04": 91,
       "2023-12-02": 104,
       "2023-12-01": 201,
-      "2023-11-30": 124
+      "2023-11-30": 97
     }
   },
   {
