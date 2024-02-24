@@ -4,18 +4,19 @@
     "url": "https://scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/scratch-wiki.info.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.66%",
     "time": 2108,
-    "timeDay": 0,
-    "timeWeek": 1403,
-    "timeMonth": 1338,
-    "timeYear": 2341,
+    "timeDay": 1309,
+    "timeWeek": 1390,
+    "timeMonth": 1337,
+    "timeYear": 2340,
     "dailyMinutesDown": {
+      "2024-02-24": 3,
       "2024-01-23": 8,
       "2024-01-14": 39,
       "2024-01-13": 7,
@@ -49,8 +50,7 @@
       "2023-11-08": 196,
       "2023-11-07": 150,
       "2023-11-06": 64,
-      "2023-11-05": 175,
-      "2023-11-04": 58
+      "2023-11-05": 175
     }
   },
   {
