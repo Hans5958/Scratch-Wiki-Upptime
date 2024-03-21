@@ -14,7 +14,7 @@
     "timeDay": 1751,
     "timeWeek": 1206,
     "timeMonth": 1306,
-    "timeYear": 2384,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2024-02-27": 8,
       "2024-02-24": 14,
@@ -69,7 +69,7 @@
     "timeDay": 2396,
     "timeWeek": 2050,
     "timeMonth": 2247,
-    "timeYear": 2746,
+    "timeYear": 2749,
     "dailyMinutesDown": {
       "2024-03-05": 8,
       "2024-02-27": 8,
@@ -124,7 +124,7 @@
     "timeDay": 1954,
     "timeWeek": 1726,
     "timeMonth": 2134,
-    "timeYear": 2820,
+    "timeYear": 2829,
     "dailyMinutesDown": {
       "2024-02-25": 8,
       "2024-02-24": 38,
@@ -175,7 +175,7 @@
     "timeDay": 2179,
     "timeWeek": 1779,
     "timeMonth": 2029,
-    "timeYear": 2424,
+    "timeYear": 2430,
     "dailyMinutesDown": {
       "2024-03-05": 14,
       "2024-02-24": 22,
@@ -226,7 +226,7 @@
     "timeDay": 1135,
     "timeWeek": 1529,
     "timeMonth": 1860,
-    "timeYear": 2212,
+    "timeYear": 2215,
     "dailyMinutesDown": {
       "2024-02-24": 7,
       "2024-02-13": 49,
@@ -271,18 +271,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.61%",
-    "time": 2034,
+    "time": 2035,
     "timeDay": 1054,
     "timeWeek": 1453,
     "timeMonth": 2166,
-    "timeYear": 2244,
+    "timeYear": 2248,
     "dailyMinutesDown": {
+      "2024-03-21": 1,
       "2024-02-27": 7,
       "2024-02-25": 7,
       "2024-02-24": 14,
@@ -318,8 +319,7 @@
       "2023-11-29": 128,
       "2023-11-28": 27,
       "2023-11-27": 15,
-      "2023-11-26": 19,
-      "2023-11-22": 6
+      "2023-11-26": 19
     }
   },
   {
@@ -337,7 +337,7 @@
     "timeDay": 1288,
     "timeWeek": 1339,
     "timeMonth": 2122,
-    "timeYear": 2048,
+    "timeYear": 2051,
     "dailyMinutesDown": {
       "2024-02-25": 7,
       "2024-02-24": 24,
@@ -394,7 +394,7 @@
     "timeDay": 1243,
     "timeWeek": 1048,
     "timeMonth": 1617,
-    "timeYear": 2113,
+    "timeYear": 2115,
     "dailyMinutesDown": {
       "2024-02-27": 8,
       "2024-02-13": 49,
@@ -452,7 +452,7 @@
     "timeDay": 2170,
     "timeWeek": 1559,
     "timeMonth": 1225,
-    "timeYear": 1970,
+    "timeYear": 1973,
     "dailyMinutesDown": {
       "2024-02-24": 9,
       "2024-02-16": 8,
@@ -510,7 +510,7 @@
     "timeDay": 1148,
     "timeWeek": 1389,
     "timeMonth": 1234,
-    "timeYear": 2185,
+    "timeYear": 2189,
     "dailyMinutesDown": {
       "2024-02-19": 8,
       "2024-02-13": 40,
