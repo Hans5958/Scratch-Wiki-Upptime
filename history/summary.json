@@ -330,19 +330,19 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.61%",
-    "time": 1913,
+    "time": 1914,
     "timeDay": 3401,
     "timeWeek": 2355,
     "timeMonth": 1643,
     "timeYear": 2071,
     "dailyMinutesDown": {
-      "2024-03-27": 18,
+      "2024-03-27": 21,
       "2024-03-26": 15,
       "2024-03-24": 7,
       "2024-02-25": 7,
@@ -379,8 +379,7 @@
       "2023-11-28": 20,
       "2023-11-27": 15,
       "2023-11-26": 34,
-      "2023-11-22": 14,
-      "2023-11-15": 22
+      "2023-11-22": 14
     }
   },
   {
@@ -388,19 +387,19 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.60%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.61%",
     "time": 1932,
     "timeDay": 2820,
     "timeWeek": 2096,
     "timeMonth": 1517,
     "timeYear": 2137,
     "dailyMinutesDown": {
-      "2024-03-27": 18,
+      "2024-03-27": 20,
       "2024-03-26": 27,
       "2024-02-27": 8,
       "2024-02-13": 49,
@@ -439,7 +438,7 @@
       "2023-11-22": 14,
       "2023-11-15": 20,
       "2023-11-11": 29,
-      "2023-11-08": 71
+      "2023-11-08": 26
     }
   },
   {
@@ -447,19 +446,19 @@
     "url": "https://hu.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/hu.scratch-wiki.info.ico",
     "slug": "hungarian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.56%",
-    "time": 1795,
-    "timeDay": 8622,
-    "timeWeek": 4252,
-    "timeMonth": 2157,
-    "timeYear": 2024,
+    "time": 1824,
+    "timeDay": 11987,
+    "timeWeek": 6179,
+    "timeMonth": 2863,
+    "timeYear": 2059,
     "dailyMinutesDown": {
-      "2024-03-27": 11,
+      "2024-03-27": 12,
       "2024-03-26": 11,
       "2024-02-24": 9,
       "2024-02-16": 8,
@@ -498,7 +497,7 @@
       "2023-11-15": 19,
       "2023-11-11": 29,
       "2023-11-08": 209,
-      "2023-11-07": 114
+      "2023-11-07": 97
     }
   },
   {
