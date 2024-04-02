@@ -307,10 +307,10 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "90.80%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "90.78%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.65%",
     "time": 2157,
@@ -319,7 +319,7 @@
     "timeMonth": 4100,
     "timeYear": 2428,
     "dailyMinutesDown": {
-      "2024-04-02": 26,
+      "2024-04-02": 28,
       "2024-04-01": 18,
       "2024-03-31": 187,
       "2024-03-30": 138,
@@ -346,8 +346,7 @@
       "2024-01-02": 12,
       "2024-01-01": 36,
       "2023-12-31": 11,
-      "2023-12-30": 28,
-      "2023-12-29": 15
+      "2023-12-30": 28
     }
   },
   {
