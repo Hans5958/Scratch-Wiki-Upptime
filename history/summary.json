@@ -265,19 +265,19 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "90.30%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "90.29%",
     "uptimeMonth": "97.72%",
-    "uptimeYear": "99.66%",
-    "time": 2134,
+    "uptimeYear": "99.67%",
+    "time": 2136,
     "timeDay": 2685,
     "timeWeek": 4260,
     "timeMonth": 3605,
     "timeYear": 2327,
     "dailyMinutesDown": {
-      "2024-04-03": 87,
+      "2024-04-03": 88,
       "2024-04-02": 50,
       "2024-04-01": 19,
       "2024-03-31": 209,
@@ -300,8 +300,7 @@
       "2024-01-07": 54,
       "2024-01-06": 80,
       "2024-01-05": 145,
-      "2024-01-04": 128,
-      "2024-01-03": 8
+      "2024-01-04": 128
     }
   },
   {
@@ -309,19 +308,19 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "91.80%",
+    "uptimeDay": "91.76%",
     "uptimeWeek": "89.89%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.64%",
-    "time": 2181,
+    "time": 2183,
     "timeDay": 3185,
     "timeWeek": 4952,
     "timeMonth": 4033,
     "timeYear": 2440,
     "dailyMinutesDown": {
-      "2024-04-03": 72,
+      "2024-04-03": 73,
       "2024-04-02": 73,
       "2024-04-01": 18,
       "2024-03-31": 187,
@@ -346,8 +345,7 @@
       "2024-01-05": 131,
       "2024-01-04": 148,
       "2024-01-03": 71,
-      "2024-01-02": 12,
-      "2024-01-01": 15
+      "2024-01-02": 12
     }
   },
   {
@@ -355,19 +353,19 @@
     "url": "https://hu.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/hu.scratch-wiki.info.ico",
     "slug": "hungarian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "90.31%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.67%",
     "time": 2164,
-    "timeDay": 4066,
-    "timeWeek": 5685,
-    "timeMonth": 4776,
-    "timeYear": 2453,
+    "timeDay": 3770,
+    "timeWeek": 5630,
+    "timeMonth": 4740,
+    "timeYear": 2450,
     "dailyMinutesDown": {
-      "2024-04-03": 71,
+      "2024-04-03": 72,
       "2024-04-02": 51,
       "2024-03-31": 187,
       "2024-03-30": 138,
@@ -389,7 +387,7 @@
       "2024-01-06": 62,
       "2024-01-05": 116,
       "2024-01-04": 120,
-      "2024-01-03": 38
+      "2024-01-03": 24
     }
   },
   {
@@ -397,19 +395,19 @@
     "url": "https://test.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.70%",
+    "uptimeDay": "95.65%",
     "uptimeWeek": "91.45%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.68%",
     "time": 2432,
-    "timeDay": 4395,
-    "timeWeek": 7574,
-    "timeMonth": 6051,
-    "timeYear": 2797,
+    "timeDay": 3950,
+    "timeWeek": 7488,
+    "timeMonth": 5999,
+    "timeYear": 2794,
     "dailyMinutesDown": {
-      "2024-04-03": 37,
+      "2024-04-03": 38,
       "2024-04-02": 51,
       "2024-04-01": 18,
       "2024-03-31": 183,
@@ -433,7 +431,7 @@
       "2024-01-04": 123,
       "2024-01-03": 78,
       "2023-12-31": 25,
-      "2023-12-30": 15
+      "2023-12-30": 8
     }
   }
 ]
