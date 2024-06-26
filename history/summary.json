@@ -63,12 +63,12 @@
     "uptime": "99.92%",
     "uptimeDay": "99.12%",
     "uptimeWeek": "99.32%",
-    "uptimeMonth": "98.71%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.70%",
     "time": 3232,
     "timeDay": 1335,
     "timeWeek": 2576,
-    "timeMonth": 4409,
+    "timeMonth": 4454,
     "timeYear": 3566,
     "dailyMinutesDown": {
       "2024-06-26": 13,
@@ -421,18 +421,19 @@
     "url": "https://test.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.65%",
-    "time": 2736,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.66%",
+    "time": 2738,
     "timeDay": 1097,
     "timeWeek": 1606,
     "timeMonth": 3436,
     "timeYear": 3078,
     "dailyMinutesDown": {
+      "2024-06-26": 1,
       "2024-06-25": 11,
       "2024-06-24": 33,
       "2024-06-21": 25,
@@ -456,7 +457,7 @@
       "2024-03-31": 183,
       "2024-03-30": 130,
       "2024-03-29": 65,
-      "2024-03-28": 214
+      "2024-03-28": 199
     }
   }
 ]
