@@ -293,18 +293,19 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.68%",
-    "time": 2449,
+    "time": 2451,
     "timeDay": 1112,
     "timeWeek": 1774,
     "timeMonth": 2277,
     "timeYear": 2641,
     "dailyMinutesDown": {
+      "2024-06-28": 2,
       "2024-06-25": 26,
       "2024-06-24": 7,
       "2024-06-21": 20,
@@ -326,8 +327,7 @@
       "2024-04-01": 19,
       "2024-03-31": 209,
       "2024-03-30": 130,
-      "2024-03-29": 37,
-      "2024-03-28": 11
+      "2024-03-29": 37
     }
   },
   {
