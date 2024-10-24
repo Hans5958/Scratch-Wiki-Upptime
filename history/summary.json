@@ -4,9 +4,9 @@
     "url": "https://scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/scratch-wiki.info.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.61%",
+    "uptimeDay": "99.57%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 1439,
     "timeYear": 2207,
     "dailyMinutesDown": {
+      "2024-10-24": 1,
       "2024-10-23": 6,
       "2024-10-10": 10,
       "2024-09-18": 18,
@@ -45,7 +46,7 @@
       "2024-05-24": 42,
       "2024-05-22": 8,
       "2024-05-13": 25,
-      "2024-05-12": 100
+      "2024-05-12": 92
     }
   },
   {
@@ -63,7 +64,7 @@
     "timeDay": 1008,
     "timeWeek": 1647,
     "timeMonth": 2293,
-    "timeYear": 3923,
+    "timeYear": 3926,
     "dailyMinutesDown": {
       "2024-10-23": 6,
       "2024-10-10": 581,
@@ -127,7 +128,7 @@
     "timeDay": 1990,
     "timeWeek": 3037,
     "timeMonth": 3325,
-    "timeYear": 3817,
+    "timeYear": 3820,
     "dailyMinutesDown": {
       "2024-10-23": 6,
       "2024-10-10": 9,
@@ -179,7 +180,7 @@
     "timeDay": 7210,
     "timeWeek": 4880,
     "timeMonth": 3895,
-    "timeYear": 3631,
+    "timeYear": 3636,
     "dailyMinutesDown": {
       "2024-10-24": 30,
       "2024-10-23": 6,
@@ -230,7 +231,7 @@
     "timeDay": 2357,
     "timeWeek": 1469,
     "timeMonth": 2760,
-    "timeYear": 3241,
+    "timeYear": 3246,
     "dailyMinutesDown": {
       "2024-10-18": 7,
       "2024-10-10": 8,
@@ -278,7 +279,7 @@
     "timeDay": 2230,
     "timeWeek": 2266,
     "timeMonth": 3332,
-    "timeYear": 3385,
+    "timeYear": 3390,
     "dailyMinutesDown": {
       "2024-10-24": 92,
       "2024-10-23": 4,
@@ -326,7 +327,7 @@
     "timeDay": 8182,
     "timeWeek": 4980,
     "timeMonth": 3408,
-    "timeYear": 3067,
+    "timeYear": 3068,
     "dailyMinutesDown": {
       "2024-10-24": 72,
       "2024-10-23": 27,
@@ -368,14 +369,14 @@
     "status": "up",
     "uptime": "99.01%",
     "uptimeDay": "94.55%",
-    "uptimeWeek": "87.42%",
+    "uptimeWeek": "92.70%",
     "uptimeMonth": "58.04%",
     "uptimeYear": "96.14%",
     "time": 2942,
     "timeDay": 1682,
     "timeWeek": 1733,
     "timeMonth": 2227,
-    "timeYear": 3088,
+    "timeYear": 3090,
     "dailyMinutesDown": {
       "2024-10-24": 74,
       "2024-10-23": 4,
@@ -438,7 +439,7 @@
     "timeDay": 1656,
     "timeWeek": 1657,
     "timeMonth": 2057,
-    "timeYear": 3086,
+    "timeYear": 3090,
     "dailyMinutesDown": {
       "2024-10-24": 63,
       "2024-10-23": 4,
@@ -488,7 +489,7 @@
     "timeDay": 2259,
     "timeWeek": 2377,
     "timeMonth": 2639,
-    "timeYear": 3344,
+    "timeYear": 3349,
     "dailyMinutesDown": {
       "2024-10-24": 37,
       "2024-10-23": 4,
