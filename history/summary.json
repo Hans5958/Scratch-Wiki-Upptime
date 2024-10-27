@@ -171,19 +171,19 @@
     "url": "https://fr.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.63%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.64%",
     "time": 3435,
     "timeDay": 2685,
     "timeWeek": 4292,
     "timeMonth": 3679,
     "timeYear": 3638,
     "dailyMinutesDown": {
-      "2024-10-27": 75,
+      "2024-10-27": 79,
       "2024-10-25": 42,
       "2024-10-24": 30,
       "2024-10-23": 6,
@@ -215,7 +215,7 @@
       "2024-07-20": 91,
       "2024-07-19": 210,
       "2024-07-18": 250,
-      "2024-07-17": 129
+      "2024-07-17": 114
     }
   },
   {
@@ -271,19 +271,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.61%",
-    "time": 3164,
+    "time": 3166,
     "timeDay": 3295,
     "timeWeek": 3009,
     "timeMonth": 2960,
     "timeYear": 3400,
     "dailyMinutesDown": {
-      "2024-10-27": 90,
+      "2024-10-27": 93,
       "2024-10-25": 21,
       "2024-10-24": 92,
       "2024-10-23": 4,
@@ -311,7 +311,7 @@
       "2024-07-19": 230,
       "2024-07-18": 305,
       "2024-07-17": 132,
-      "2024-07-16": 77
+      "2024-07-16": 64
     }
   },
   {
@@ -366,19 +366,19 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "57.82%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "57.81%",
     "uptimeYear": "96.14%",
-    "time": 2971,
+    "time": 2972,
     "timeDay": 4410,
     "timeWeek": 2971,
     "timeMonth": 2663,
     "timeYear": 3112,
     "dailyMinutesDown": {
-      "2024-10-27": 80,
+      "2024-10-27": 81,
       "2024-10-25": 18,
       "2024-10-24": 74,
       "2024-10-23": 4,
@@ -418,7 +418,7 @@
       "2024-07-15": 25,
       "2024-07-14": 7,
       "2024-07-13": 21,
-      "2024-07-12": 26
+      "2024-07-12": 12
     }
   },
   {
