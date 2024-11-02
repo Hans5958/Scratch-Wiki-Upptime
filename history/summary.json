@@ -61,7 +61,7 @@
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
-    "uptimeMonth": "74.92%",
+    "uptimeMonth": "75.23%",
     "uptimeYear": "96.93%",
     "time": 3772,
     "timeDay": 2659,
@@ -278,19 +278,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "95.77%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "95.75%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.64%",
-    "time": 3248,
+    "time": 3251,
     "timeDay": 1892,
     "timeWeek": 4076,
     "timeMonth": 3380,
     "timeYear": 3441,
     "dailyMinutesDown": {
-      "2024-11-02": 36,
+      "2024-11-02": 38,
       "2024-11-01": 61,
       "2024-10-30": 25,
       "2024-10-28": 150,
@@ -319,8 +319,7 @@
       "2024-07-22": 263,
       "2024-07-21": 188,
       "2024-07-20": 90,
-      "2024-07-19": 230,
-      "2024-07-18": 9
+      "2024-07-19": 230
     }
   },
   {
