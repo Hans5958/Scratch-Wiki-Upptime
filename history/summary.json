@@ -215,18 +215,19 @@
     "url": "https://fr.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.56%",
-    "time": 3649,
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "99.57%",
+    "time": 3651,
     "timeDay": 1132,
     "timeWeek": 1344,
-    "timeMonth": 2030,
+    "timeMonth": 2009,
     "timeYear": 3570,
     "dailyMinutesDown": {
+      "2025-02-10": 1,
       "2025-02-09": 7,
       "2025-02-04": 16,
       "2025-01-29": 419,
@@ -278,7 +279,7 @@
       "2024-09-26": 12,
       "2024-09-25": 7,
       "2024-09-19": 213,
-      "2024-09-18": 35
+      "2024-09-18": 18
     }
   },
   {
