@@ -435,19 +435,19 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "82.97%",
+    "uptimeDay": "82.92%",
     "uptimeWeek": "82.23%",
     "uptimeMonth": "87.44%",
     "uptimeYear": "98.30%",
-    "time": 2660,
-    "timeDay": 1317,
-    "timeWeek": 1134,
-    "timeMonth": 2415,
-    "timeYear": 2683,
+    "time": 2655,
+    "timeDay": 1192,
+    "timeWeek": 1118,
+    "timeMonth": 2394,
+    "timeYear": 2681,
     "dailyMinutesDown": {
-      "2025-05-17": 246,
+      "2025-05-17": 247,
       "2025-05-16": 9,
       "2025-05-15": 914,
       "2025-05-14": 153,
@@ -491,7 +491,7 @@
       "2025-03-06": 18,
       "2025-03-04": 601,
       "2025-03-02": 775,
-      "2025-03-01": 151
+      "2025-03-01": 136
     }
   },
   {
