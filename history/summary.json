@@ -6,7 +6,7 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "12.67%",
+    "uptimeDay": "46.40%",
     "uptimeWeek": "83.75%",
     "uptimeMonth": "95.57%",
     "uptimeYear": "98.97%",
@@ -201,7 +201,7 @@
     "timeDay": 994,
     "timeWeek": 3159,
     "timeMonth": 1980,
-    "timeYear": 2967,
+    "timeYear": 2969,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 225,
@@ -272,7 +272,7 @@
     "timeDay": 6535,
     "timeWeek": 2805,
     "timeMonth": 2112,
-    "timeYear": 2529,
+    "timeYear": 2532,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 205,
@@ -332,19 +332,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.17%",
+    "uptimeDay": "77.13%",
     "uptimeWeek": "83.80%",
     "uptimeMonth": "86.43%",
-    "uptimeYear": "97.89%",
-    "time": 2981,
-    "timeDay": 704,
-    "timeWeek": 2551,
-    "timeMonth": 2485,
-    "timeYear": 2971,
+    "uptimeYear": "97.90%",
+    "time": 2980,
+    "timeDay": 713,
+    "timeWeek": 2437,
+    "timeMonth": 2462,
+    "timeYear": 2972,
     "dailyMinutesDown": {
-      "2025-05-26": 109,
+      "2025-05-26": 110,
       "2025-05-25": 219,
       "2025-05-24": 13,
       "2025-05-23": 252,
@@ -395,7 +395,7 @@
       "2025-03-08": 32,
       "2025-03-06": 18,
       "2025-03-04": 548,
-      "2025-03-02": 612
+      "2025-03-02": 558
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeDay": 724,
     "timeWeek": 3496,
     "timeMonth": 2322,
-    "timeYear": 2883,
+    "timeYear": 2886,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 217,
@@ -484,7 +484,7 @@
     "timeDay": 727,
     "timeWeek": 1854,
     "timeMonth": 1658,
-    "timeYear": 2624,
+    "timeYear": 2628,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 213,
@@ -554,7 +554,7 @@
     "timeDay": 717,
     "timeWeek": 2199,
     "timeMonth": 1526,
-    "timeYear": 2266,
+    "timeYear": 2269,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 211,
@@ -626,7 +626,7 @@
     "timeDay": 13103,
     "timeWeek": 4969,
     "timeMonth": 2593,
-    "timeYear": 2510,
+    "timeYear": 2513,
     "dailyMinutesDown": {
       "2025-05-26": 109,
       "2025-05-25": 189,
