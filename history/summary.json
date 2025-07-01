@@ -222,7 +222,7 @@
     "timeDay": 1369,
     "timeWeek": 4039,
     "timeMonth": 5633,
-    "timeYear": 3029,
+    "timeYear": 3025,
     "dailyMinutesDown": {
       "2025-06-27": 53,
       "2025-06-25": 20,
@@ -368,18 +368,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.53%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "94.52%",
     "uptimeMonth": "71.80%",
-    "uptimeYear": "95.59%",
+    "uptimeYear": "95.65%",
     "time": 3164,
-    "timeDay": 1128,
-    "timeWeek": 6573,
-    "timeMonth": 6268,
-    "timeYear": 3148,
+    "timeDay": 1180,
+    "timeWeek": 6306,
+    "timeMonth": 6199,
+    "timeYear": 3146,
     "dailyMinutesDown": {
+      "2025-07-01": 1,
       "2025-06-29": 385,
       "2025-06-27": 19,
       "2025-06-26": 20,
@@ -439,8 +440,7 @@
       "2025-04-23": 308,
       "2025-04-22": 228,
       "2025-04-21": 113,
-      "2025-04-20": 47,
-      "2025-04-19": 345
+      "2025-04-20": 47
     }
   },
   {
