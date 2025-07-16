@@ -14,7 +14,7 @@
     "timeDay": 1702,
     "timeWeek": 1290,
     "timeMonth": 1557,
-    "timeYear": 1695,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-06-16": 110,
       "2025-06-15": 47,
@@ -64,7 +64,7 @@
     "timeDay": 1591,
     "timeWeek": 3876,
     "timeMonth": 6488,
-    "timeYear": 2788,
+    "timeYear": 2776,
     "dailyMinutesDown": {
       "2025-07-12": 101,
       "2025-07-11": 69,
@@ -139,7 +139,7 @@
     "timeDay": 1719,
     "timeWeek": 1432,
     "timeMonth": 7374,
-    "timeYear": 3385,
+    "timeYear": 3373,
     "dailyMinutesDown": {
       "2025-07-09": 62,
       "2025-07-06": 187,
@@ -204,17 +204,17 @@
     "url": "https://fr.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "99.10%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.07%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "96.27%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.47%",
     "time": 3293,
-    "timeDay": 1046,
-    "timeWeek": 7018,
-    "timeMonth": 8448,
-    "timeYear": 3191,
+    "timeDay": 1039,
+    "timeWeek": 6618,
+    "timeMonth": 8332,
+    "timeYear": 3182,
     "dailyMinutesDown": {
       "2025-07-16": 13,
       "2025-07-12": 8,
@@ -273,8 +273,7 @@
       "2025-05-04": 122,
       "2025-05-02": 53,
       "2025-04-29": 294,
-      "2025-04-28": 91,
-      "2025-04-27": 40
+      "2025-04-28": 91
     }
   },
   {
@@ -292,7 +291,7 @@
     "timeDay": 1202,
     "timeWeek": 2214,
     "timeMonth": 7225,
-    "timeYear": 2766,
+    "timeYear": 2763,
     "dailyMinutesDown": {
       "2025-07-12": 101,
       "2025-07-11": 69,
@@ -372,7 +371,7 @@
     "timeDay": 1543,
     "timeWeek": 5318,
     "timeMonth": 7130,
-    "timeYear": 3300,
+    "timeYear": 3295,
     "dailyMinutesDown": {
       "2025-07-12": 13,
       "2025-07-10": 199,
@@ -450,7 +449,7 @@
     "timeDay": 1358,
     "timeWeek": 3505,
     "timeMonth": 8132,
-    "timeYear": 3138,
+    "timeYear": 3137,
     "dailyMinutesDown": {
       "2025-07-10": 22,
       "2025-07-09": 39,
@@ -527,7 +526,7 @@
     "timeDay": 1009,
     "timeWeek": 3322,
     "timeMonth": 5931,
-    "timeYear": 2828,
+    "timeYear": 2824,
     "dailyMinutesDown": {
       "2025-07-15": 37,
       "2025-07-14": 32,
@@ -606,7 +605,7 @@
     "timeDay": 1028,
     "timeWeek": 2626,
     "timeMonth": 5100,
-    "timeYear": 2414,
+    "timeYear": 2410,
     "dailyMinutesDown": {
       "2025-07-16": 21,
       "2025-07-15": 71,
@@ -684,7 +683,7 @@
     "timeDay": 1332,
     "timeWeek": 955,
     "timeMonth": 5007,
-    "timeYear": 2608,
+    "timeYear": 2598,
     "dailyMinutesDown": {
       "2025-07-09": 15,
       "2025-07-06": 167,
