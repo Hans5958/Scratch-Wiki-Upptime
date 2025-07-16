@@ -595,19 +595,19 @@
     "url": "https://hu.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/hu.scratch-wiki.info.ico",
     "slug": "hungarian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "96.49%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "93.15%",
     "uptimeYear": "96.27%",
-    "time": 2581,
-    "timeDay": 1033,
-    "timeWeek": 2543,
-    "timeMonth": 5014,
-    "timeYear": 2408,
+    "time": 2575,
+    "timeDay": 1009,
+    "timeWeek": 2498,
+    "timeMonth": 4970,
+    "timeYear": 2406,
     "dailyMinutesDown": {
-      "2025-07-16": 50,
+      "2025-07-16": 51,
       "2025-07-15": 71,
       "2025-07-14": 140,
       "2025-07-13": 32,
@@ -664,7 +664,7 @@
       "2025-05-11": 179,
       "2025-05-09": 24,
       "2025-05-06": 12,
-      "2025-05-05": 241
+      "2025-05-05": 232
     }
   },
   {
