@@ -14,7 +14,7 @@
     "timeDay": 1702,
     "timeWeek": 1290,
     "timeMonth": 1557,
-    "timeYear": 1697,
+    "timeYear": 1698,
     "dailyMinutesDown": {
       "2025-06-16": 110,
       "2025-06-15": 47,
@@ -449,7 +449,7 @@
     "timeDay": 1358,
     "timeWeek": 3505,
     "timeMonth": 8132,
-    "timeYear": 3140,
+    "timeYear": 3127,
     "dailyMinutesDown": {
       "2025-07-10": 22,
       "2025-07-09": 39,
@@ -595,19 +595,19 @@
     "url": "https://hu.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/hu.scratch-wiki.info.ico",
     "slug": "hungarian",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.09%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "96.08%",
     "uptimeMonth": "93.06%",
-    "uptimeYear": "96.26%",
-    "time": 2575,
-    "timeDay": 992,
-    "timeWeek": 2456,
-    "timeMonth": 4926,
-    "timeYear": 2404,
+    "uptimeYear": "96.31%",
+    "time": 2571,
+    "timeDay": 1020,
+    "timeWeek": 2428,
+    "timeMonth": 4889,
+    "timeYear": 2403,
     "dailyMinutesDown": {
-      "2025-07-16": 90,
+      "2025-07-16": 91,
       "2025-07-15": 71,
       "2025-07-14": 140,
       "2025-07-13": 32,
@@ -663,8 +663,7 @@
       "2025-05-12": 11,
       "2025-05-11": 179,
       "2025-05-09": 24,
-      "2025-05-06": 12,
-      "2025-05-05": 232
+      "2025-05-06": 12
     }
   },
   {
