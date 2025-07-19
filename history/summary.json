@@ -14,7 +14,7 @@
     "timeDay": 2037,
     "timeWeek": 2135,
     "timeMonth": 1766,
-    "timeYear": 1673,
+    "timeYear": 1674,
     "dailyMinutesDown": {
       "2025-06-16": 110,
       "2025-06-15": 47,
@@ -64,7 +64,7 @@
     "timeDay": 11144,
     "timeWeek": 2462,
     "timeMonth": 6471,
-    "timeYear": 2675,
+    "timeYear": 2656,
     "dailyMinutesDown": {
       "2025-07-16": 19,
       "2025-07-12": 101,
@@ -139,7 +139,7 @@
     "timeDay": 6212,
     "timeWeek": 3064,
     "timeMonth": 7437,
-    "timeYear": 3254,
+    "timeYear": 3248,
     "dailyMinutesDown": {
       "2025-07-18": 9,
       "2025-07-09": 62,
@@ -214,7 +214,7 @@
     "timeDay": 9322,
     "timeWeek": 3091,
     "timeMonth": 8387,
-    "timeYear": 3099,
+    "timeYear": 3082,
     "dailyMinutesDown": {
       "2025-07-18": 16,
       "2025-07-16": 26,
@@ -291,7 +291,7 @@
     "timeDay": 12556,
     "timeWeek": 2985,
     "timeMonth": 7428,
-    "timeYear": 2682,
+    "timeYear": 2684,
     "dailyMinutesDown": {
       "2025-07-12": 101,
       "2025-07-11": 69,
@@ -361,18 +361,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "96.84%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "96.79%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "92.50%",
-    "uptimeYear": "95.67%",
-    "time": 3251,
-    "timeDay": 9331,
-    "timeWeek": 3587,
-    "timeMonth": 7316,
-    "timeYear": 3258,
+    "uptimeYear": "95.69%",
+    "time": 3250,
+    "timeDay": 7167,
+    "timeWeek": 3344,
+    "timeMonth": 7232,
+    "timeYear": 3252,
     "dailyMinutesDown": {
+      "2025-07-19": 1,
       "2025-07-18": 82,
       "2025-07-12": 13,
       "2025-07-10": 199,
@@ -431,7 +432,7 @@
       "2025-05-09": 24,
       "2025-05-06": 73,
       "2025-05-05": 368,
-      "2025-05-04": 114
+      "2025-05-04": 37
     }
   },
   {
@@ -449,7 +450,7 @@
     "timeDay": 10767,
     "timeWeek": 2646,
     "timeMonth": 8272,
-    "timeYear": 3116,
+    "timeYear": 3110,
     "dailyMinutesDown": {
       "2025-07-10": 22,
       "2025-07-09": 39,
@@ -519,14 +520,14 @@
     "status": "up",
     "uptime": "99.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.92%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "96.32%",
     "time": 2848,
     "timeDay": 1490,
-    "timeWeek": 1490,
+    "timeWeek": 1501,
     "timeMonth": 5623,
-    "timeYear": 2710,
+    "timeYear": 2705,
     "dailyMinutesDown": {
       "2025-07-17": 40,
       "2025-07-16": 14,
@@ -605,7 +606,7 @@
     "timeDay": 1042,
     "timeWeek": 1433,
     "timeMonth": 4554,
-    "timeYear": 2321,
+    "timeYear": 2314,
     "dailyMinutesDown": {
       "2025-07-19": 82,
       "2025-07-18": 127,
@@ -677,7 +678,7 @@
     "timeDay": 1330,
     "timeWeek": 1106,
     "timeMonth": 5011,
-    "timeYear": 2560,
+    "timeYear": 2552,
     "dailyMinutesDown": {
       "2025-07-09": 15,
       "2025-07-06": 167,
