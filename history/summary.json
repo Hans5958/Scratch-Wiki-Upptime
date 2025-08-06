@@ -441,18 +441,19 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "96.72%",
-    "time": 3105,
-    "timeDay": 4638,
-    "timeWeek": 2360,
-    "timeMonth": 3193,
-    "timeYear": 3116,
+    "uptimeYear": "96.74%",
+    "time": 3116,
+    "timeDay": 8787,
+    "timeWeek": 4247,
+    "timeMonth": 3603,
+    "timeYear": 3139,
     "dailyMinutesDown": {
+      "2025-08-06": 1,
       "2025-08-05": 116,
       "2025-07-24": 32,
       "2025-07-21": 211,
@@ -509,7 +510,7 @@
       "2025-05-05": 320,
       "2025-05-04": 110,
       "2025-05-02": 53,
-      "2025-04-29": 286
+      "2025-04-29": 167
     }
   },
   {
