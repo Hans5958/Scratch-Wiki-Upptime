@@ -55,19 +55,19 @@
     "url": "https://en.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/en.scratch-wiki.info.ico",
     "slug": "english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "93.02%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "96.55%",
-    "time": 3024,
+    "time": 3016,
     "timeDay": 18493,
     "timeWeek": 11654,
     "timeMonth": 6564,
     "timeYear": 2788,
     "dailyMinutesDown": {
-      "2025-08-14": 126,
+      "2025-08-14": 131,
       "2025-08-13": 22,
       "2025-08-11": 538,
       "2025-08-10": 11,
@@ -122,8 +122,7 @@
       "2025-05-16": 9,
       "2025-05-15": 914,
       "2025-05-14": 175,
-      "2025-05-13": 177,
-      "2025-05-12": 11
+      "2025-05-13": 177
     }
   },
   {
@@ -208,19 +207,19 @@
     "url": "https://fr.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "92.24%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "96.46%",
-    "time": 3376,
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "92.99%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "96.50%",
+    "time": 3379,
     "timeDay": 15874,
     "timeWeek": 10519,
     "timeMonth": 6288,
     "timeYear": 3261,
     "dailyMinutesDown": {
-      "2025-08-14": 111,
+      "2025-08-14": 114,
       "2025-08-13": 6,
       "2025-08-12": 20,
       "2025-08-11": 538,
@@ -278,8 +277,7 @@
       "2025-05-17": 265,
       "2025-05-16": 9,
       "2025-05-15": 915,
-      "2025-05-14": 163,
-      "2025-05-13": 174
+      "2025-05-14": 163
     }
   },
   {
@@ -532,7 +530,7 @@
     "time": 2933,
     "timeDay": 17794,
     "timeWeek": 10378,
-    "timeMonth": 4511,
+    "timeMonth": 4566,
     "timeYear": 2820,
     "dailyMinutesDown": {
       "2025-08-14": 49,
