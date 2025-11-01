@@ -14,7 +14,7 @@
     "timeDay": 1230,
     "timeWeek": 1383,
     "timeMonth": 1482,
-    "timeYear": 1643,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2025-10-08": 8,
       "2025-08-16": 30,
@@ -66,7 +66,7 @@
     "timeDay": 1760,
     "timeWeek": 2446,
     "timeMonth": 2695,
-    "timeYear": 3825,
+    "timeYear": 3830,
     "dailyMinutesDown": {
       "2025-10-30": 9,
       "2025-10-17": 749,
@@ -126,7 +126,7 @@
     "timeDay": 2049,
     "timeWeek": 2050,
     "timeMonth": 1911,
-    "timeYear": 4441,
+    "timeYear": 4431,
     "dailyMinutesDown": {
       "2025-11-01": 32,
       "2025-10-20": 8,
@@ -181,7 +181,7 @@
     "timeDay": 1424,
     "timeWeek": 2014,
     "timeMonth": 2911,
-    "timeYear": 4123,
+    "timeYear": 4129,
     "dailyMinutesDown": {
       "2025-10-22": 8,
       "2025-10-20": 21,
@@ -242,7 +242,7 @@
     "timeDay": 1452,
     "timeWeek": 1448,
     "timeMonth": 2076,
-    "timeYear": 3565,
+    "timeYear": 3569,
     "dailyMinutesDown": {
       "2025-10-17": 749,
       "2025-10-16": 92,
@@ -308,7 +308,7 @@
     "timeDay": 1410,
     "timeWeek": 1540,
     "timeMonth": 1576,
-    "timeYear": 4633,
+    "timeYear": 4642,
     "dailyMinutesDown": {
       "2025-10-25": 9,
       "2025-10-17": 749,
@@ -351,18 +351,19 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "97.89%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.04%",
-    "time": 4111,
+    "time": 4114,
     "timeDay": 1542,
     "timeWeek": 1770,
     "timeMonth": 2205,
-    "timeYear": 4062,
+    "timeYear": 4064,
     "dailyMinutesDown": {
+      "2025-11-01": 3,
       "2025-10-26": 6,
       "2025-10-20": 13,
       "2025-10-19": 17,
@@ -405,8 +406,7 @@
       "2025-08-06": 152,
       "2025-08-05": 116,
       "2025-07-24": 32,
-      "2025-07-21": 211,
-      "2025-07-10": 22
+      "2025-07-21": 211
     }
   },
   {
@@ -424,7 +424,7 @@
     "timeDay": 854,
     "timeWeek": 1453,
     "timeMonth": 2434,
-    "timeYear": 3922,
+    "timeYear": 3897,
     "dailyMinutesDown": {
       "2025-10-17": 749,
       "2025-10-16": 92,
