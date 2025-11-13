@@ -59,19 +59,19 @@
     "url": "https://en.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/en.scratch-wiki.info.ico",
     "slug": "english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.26%",
-    "time": 3780,
-    "timeDay": 6231,
-    "timeWeek": 8479,
-    "timeMonth": 4500,
-    "timeYear": 3936,
+    "time": 3791,
+    "timeDay": 7458,
+    "timeWeek": 8832,
+    "timeMonth": 4710,
+    "timeYear": 3948,
     "dailyMinutesDown": {
-      "2025-11-13": 79,
+      "2025-11-13": 80,
       "2025-11-12": 17,
       "2025-11-11": 19,
       "2025-11-10": 114,
@@ -110,7 +110,7 @@
       "2025-08-19": 23,
       "2025-08-18": 19,
       "2025-08-16": 30,
-      "2025-08-14": 101
+      "2025-08-14": 82
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.81%",
+    "uptimeDay": "92.58%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "99.08%",
     "time": 4082,
     "timeDay": 1759,
     "timeWeek": 3909,
     "timeMonth": 2956,
     "timeYear": 4132,
     "dailyMinutesDown": {
-      "2025-11-13": 40,
+      "2025-11-13": 99,
       "2025-11-12": 7,
       "2025-11-10": 11,
       "2025-11-02": 28,
@@ -225,8 +225,7 @@
       "2025-08-18": 13,
       "2025-08-16": 28,
       "2025-08-14": 143,
-      "2025-08-13": 6,
-      "2025-08-12": 8
+      "2025-08-13": 6
     }
   },
   {
@@ -490,7 +489,7 @@
     "timeDay": 5714,
     "timeWeek": 8671,
     "timeMonth": 3978,
-    "timeYear": 3327,
+    "timeYear": 3326,
     "dailyMinutesDown": {
       "2025-11-13": 47,
       "2025-11-12": 23,
@@ -556,7 +555,7 @@
     "timeDay": 875,
     "timeWeek": 1863,
     "timeMonth": 1564,
-    "timeYear": 3355,
+    "timeYear": 3323,
     "dailyMinutesDown": {
       "2025-11-13": 39,
       "2025-11-12": 6,
