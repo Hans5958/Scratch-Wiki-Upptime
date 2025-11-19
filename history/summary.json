@@ -233,19 +233,19 @@
     "url": "https://ja.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ja.scratch-wiki.info.ico",
     "slug": "japanese",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "98.98%",
-    "time": 3531,
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "98.99%",
+    "time": 3533,
     "timeDay": 3824,
     "timeWeek": 2534,
     "timeMonth": 3721,
     "timeYear": 3595,
     "dailyMinutesDown": {
-      "2025-11-19": 57,
+      "2025-11-19": 59,
       "2025-11-17": 127,
       "2025-11-16": 16,
       "2025-11-15": 67,
@@ -290,7 +290,7 @@
       "2025-08-08": 5,
       "2025-08-07": 44,
       "2025-08-06": 111,
-      "2025-08-05": 143
+      "2025-08-05": 116
     }
   },
   {
