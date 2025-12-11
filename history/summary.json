@@ -123,7 +123,7 @@
     "time": 4304,
     "timeDay": 2173,
     "timeWeek": 2272,
-    "timeMonth": 4062,
+    "timeMonth": 4085,
     "timeYear": 4308,
     "dailyMinutesDown": {
       "2025-12-09": 9,
@@ -243,18 +243,19 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "57.34%",
-    "uptimeWeek": "70.28%",
-    "uptimeMonth": "86.80%",
+    "uptimeDay": "81.95%",
+    "uptimeWeek": "70.27%",
+    "uptimeMonth": "86.82%",
     "uptimeYear": "98.90%",
     "time": 4634,
-    "timeDay": 1739,
-    "timeWeek": 1406,
-    "timeMonth": 4781,
-    "timeYear": 4585,
+    "timeDay": 1630,
+    "timeWeek": 1401,
+    "timeMonth": 4758,
+    "timeYear": 4581,
     "dailyMinutesDown": {
+      "2025-12-11": 1,
       "2025-12-10": 673,
       "2025-12-09": 585,
       "2025-12-08": 433,
@@ -275,8 +276,7 @@
       "2025-11-23": 16,
       "2025-11-22": 21,
       "2025-11-21": 46,
-      "2025-11-20": 20,
-      "2025-11-19": 9
+      "2025-11-20": 20
     }
   },
   {
