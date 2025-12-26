@@ -87,7 +87,7 @@
     "time": 3901,
     "timeDay": 1763,
     "timeWeek": 1917,
-    "timeMonth": 4062,
+    "timeMonth": 4080,
     "timeYear": 4106,
     "dailyMinutesDown": {
       "2025-12-24": 30,
@@ -130,7 +130,7 @@
     "time": 4432,
     "timeDay": 988,
     "timeWeek": 1873,
-    "timeMonth": 4221,
+    "timeMonth": 4208,
     "timeYear": 4418,
     "dailyMinutesDown": {
       "2025-12-24": 30,
@@ -174,7 +174,7 @@
     "time": 4027,
     "timeDay": 852,
     "timeWeek": 1582,
-    "timeMonth": 3626,
+    "timeMonth": 3641,
     "timeYear": 4139,
     "dailyMinutesDown": {
       "2025-12-24": 30,
@@ -209,18 +209,19 @@
     "url": "https://ja.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ja.scratch-wiki.info.ico",
     "slug": "japanese",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "87.27%",
-    "uptimeYear": "98.94%",
-    "time": 3654,
-    "timeDay": 1342,
-    "timeWeek": 1397,
-    "timeMonth": 3957,
-    "timeYear": 3784,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "87.46%",
+    "uptimeYear": "98.96%",
+    "time": 3653,
+    "timeDay": 1115,
+    "timeWeek": 1360,
+    "timeMonth": 3952,
+    "timeYear": 3781,
     "dailyMinutesDown": {
+      "2025-12-26": 1,
       "2025-12-24": 30,
       "2025-12-22": 7,
       "2025-12-21": 23,
@@ -244,7 +245,7 @@
       "2025-12-01": 74,
       "2025-11-30": 534,
       "2025-11-29": 447,
-      "2025-11-28": 437
+      "2025-11-28": 354
     }
   },
   {
@@ -261,7 +262,7 @@
     "time": 4622,
     "timeDay": 1397,
     "timeWeek": 2797,
-    "timeMonth": 4100,
+    "timeMonth": 4117,
     "timeYear": 4612,
     "dailyMinutesDown": {
       "2025-12-26": 57,
@@ -306,7 +307,7 @@
     "time": 4075,
     "timeDay": 853,
     "timeWeek": 1348,
-    "timeMonth": 3798,
+    "timeMonth": 3814,
     "timeYear": 4102,
     "dailyMinutesDown": {
       "2025-12-24": 29,
@@ -349,7 +350,7 @@
     "time": 3957,
     "timeDay": 859,
     "timeWeek": 1163,
-    "timeMonth": 4253,
+    "timeMonth": 4276,
     "timeYear": 4013,
     "dailyMinutesDown": {
       "2025-12-24": 98,
@@ -393,7 +394,7 @@
     "time": 3369,
     "timeDay": 852,
     "timeWeek": 1817,
-    "timeMonth": 3736,
+    "timeMonth": 3752,
     "timeYear": 3510,
     "dailyMinutesDown": {
       "2025-12-25": 220,
@@ -438,7 +439,7 @@
     "time": 3451,
     "timeDay": 857,
     "timeWeek": 1094,
-    "timeMonth": 3847,
+    "timeMonth": 3812,
     "timeYear": 3501,
     "dailyMinutesDown": {
       "2025-12-24": 28,
