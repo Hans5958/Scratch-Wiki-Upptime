@@ -1,7 +1,7 @@
 url: https://id.scratch-wiki.info
-status: up
-code: 200
-responseTime: 14441
-lastUpdated: 2026-01-15T23:20:27.608Z
+status: down
+code: 500
+responseTime: 792
+lastUpdated: 2026-01-16T07:41:03.588Z
 startTime: 2020-12-03T14:46:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
