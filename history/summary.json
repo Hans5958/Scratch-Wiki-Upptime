@@ -6,10 +6,10 @@
     "slug": "portal",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "96.27%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "88.65%",
+    "uptimeYear": "96.25%",
     "time": 1504,
     "timeDay": 0,
     "timeWeek": 2626,
@@ -90,7 +90,7 @@
       "2026-06-20": 367,
       "2026-06-24": 99,
       "2026-06-26": 253,
-      "2026-07-01": 44
+      "2026-07-01": 144
     }
   },
   {
@@ -100,10 +100,10 @@
     "slug": "english",
     "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "86.17%",
-    "uptimeYear": "96.55%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "85.94%",
+    "uptimeYear": "96.53%",
     "time": 4467,
     "timeDay": 0,
     "timeWeek": 5156,
@@ -183,7 +183,7 @@
       "2026-06-24": 273,
       "2026-06-26": 248,
       "2026-06-29": 304,
-      "2026-07-01": 39
+      "2026-07-01": 139
     }
   },
   {
@@ -193,10 +193,10 @@
     "slug": "german",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "86.84%",
-    "uptimeYear": "96.48%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "86.62%",
+    "uptimeYear": "96.46%",
     "time": 4793,
     "timeDay": 0,
     "timeWeek": 1574,
@@ -277,7 +277,7 @@
       "2026-06-23": 433,
       "2026-06-24": 269,
       "2026-06-26": 243,
-      "2026-07-01": 34
+      "2026-07-01": 134
     }
   },
   {
@@ -287,10 +287,10 @@
     "slug": "french",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "91.71%",
-    "uptimeMonth": "86.59%",
-    "uptimeYear": "96.59%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "86.36%",
+    "uptimeYear": "96.57%",
     "time": 4346,
     "timeDay": 0,
     "timeWeek": 1893,
@@ -371,7 +371,7 @@
       "2026-06-24": 264,
       "2026-06-26": 239,
       "2026-06-29": 303,
-      "2026-07-01": 30
+      "2026-07-01": 129
     }
   },
   {
@@ -381,10 +381,10 @@
     "slug": "japanese",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "86.93%",
-    "uptimeYear": "96.46%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "92.65%",
+    "uptimeMonth": "86.70%",
+    "uptimeYear": "96.44%",
     "time": 3933,
     "timeDay": 0,
     "timeWeek": 1548,
@@ -466,7 +466,7 @@
       "2026-06-24": 80,
       "2026-06-26": 234,
       "2026-06-29": 303,
-      "2026-07-01": 25
+      "2026-07-01": 125
     }
   },
   {
@@ -476,10 +476,10 @@
     "slug": "dutch",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "92.12%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "96.83%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "96.81%",
     "time": 4812,
     "timeDay": 0,
     "timeWeek": 1448,
@@ -561,7 +561,7 @@
       "2026-06-25": 168,
       "2026-06-26": 229,
       "2026-06-29": 303,
-      "2026-07-01": 20
+      "2026-07-01": 120
     }
   },
   {
@@ -571,10 +571,10 @@
     "slug": "russian",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "88.14%",
-    "uptimeYear": "96.62%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "87.91%",
+    "uptimeYear": "96.60%",
     "time": 4162,
     "timeDay": 0,
     "timeWeek": 1200,
@@ -656,7 +656,7 @@
       "2026-06-24": 70,
       "2026-06-25": 168,
       "2026-06-26": 224,
-      "2026-07-01": 15
+      "2026-07-01": 115
     }
   },
   {
@@ -666,10 +666,10 @@
     "slug": "indonesian",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "96.66%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "96.64%",
     "time": 4349,
     "timeDay": 0,
     "timeWeek": 1400,
@@ -751,7 +751,7 @@
       "2026-06-24": 66,
       "2026-06-25": 167,
       "2026-06-26": 219,
-      "2026-07-01": 11
+      "2026-07-01": 110
     }
   },
   {
@@ -761,10 +761,10 @@
     "slug": "hungarian",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "96.72%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "88.92%",
+    "uptimeYear": "96.70%",
     "time": 3769,
     "timeDay": 0,
     "timeWeek": 1417,
@@ -846,7 +846,7 @@
       "2026-06-26": 214,
       "2026-06-29": 8,
       "2026-06-28": 10,
-      "2026-07-01": 6
+      "2026-07-01": 106
     }
   },
   {
@@ -855,11 +855,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "96.87%",
+    "uptime": "99.43%",
+    "uptimeDay": "92.99%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "96.85%",
     "time": 3441,
     "timeDay": 0,
     "timeWeek": 1426,
@@ -940,7 +940,7 @@
       "2026-06-23": 346,
       "2026-06-24": 232,
       "2026-06-26": 210,
-      "2026-07-01": 1
+      "2026-07-01": 101
     }
   }
 ]
