@@ -4,17 +4,17 @@
     "url": "https://scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/scratch-wiki.info.ico",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "96.83%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "96.06%",
     "time": 1497,
-    "timeDay": 0,
-    "timeWeek": 1227,
-    "timeMonth": 1132,
-    "timeYear": 1361,
+    "timeDay": 1506,
+    "timeWeek": 1250,
+    "timeMonth": 1141,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-02-15": 135,
       "2026-02-14": 6,
@@ -95,7 +95,7 @@
       "2026-08-01": 50,
       "2026-08-08": 168,
       "2026-08-09": 107,
-      "2026-08-10": 44
+      "2026-08-10": 45
     }
   },
   {
@@ -103,17 +103,17 @@
     "url": "https://en.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/en.scratch-wiki.info.ico",
     "slug": "english",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "94.27%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "94.26%",
     "uptimeMonth": "96.95%",
     "uptimeYear": "96.22%",
-    "time": 4357,
-    "timeDay": 1463,
-    "timeWeek": 1415,
-    "timeMonth": 2687,
-    "timeYear": 4194,
+    "time": 4358,
+    "timeDay": 1783,
+    "timeWeek": 1471,
+    "timeMonth": 2682,
+    "timeYear": 4192,
     "dailyMinutesDown": {
       "2026-03-05": 69,
       "2026-03-07": 60,
@@ -192,7 +192,7 @@
       "2026-08-01": 46,
       "2026-08-08": 264,
       "2026-08-09": 163,
-      "2026-08-10": 149
+      "2026-08-10": 151
     }
   },
   {
@@ -200,17 +200,17 @@
     "url": "https://de.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/de.scratch-wiki.info.ico",
     "slug": "german",
-    "status": "down",
+    "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "94.56%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "94.55%",
     "uptimeMonth": "81.58%",
     "uptimeYear": "94.88%",
-    "time": 4546,
-    "timeDay": 1171,
-    "timeWeek": 1627,
-    "timeMonth": 2000,
-    "timeYear": 4335,
+    "time": 4536,
+    "timeDay": 1712,
+    "timeWeek": 1692,
+    "timeMonth": 2016,
+    "timeYear": 4333,
     "dailyMinutesDown": {
       "2026-03-01": 13,
       "2026-03-04": 34,
@@ -295,7 +295,7 @@
       "2026-08-01": 41,
       "2026-08-08": 250,
       "2026-08-09": 152,
-      "2026-08-10": 145
+      "2026-08-10": 146
     }
   },
   {
@@ -303,17 +303,17 @@
     "url": "https://fr.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/fr.scratch-wiki.info.ico",
     "slug": "french",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "90.34%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "97.41%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "96.29%",
-    "time": 4208,
-    "timeDay": 1089,
-    "timeWeek": 2264,
-    "timeMonth": 2118,
-    "timeYear": 3879,
+    "time": 4206,
+    "timeDay": 1606,
+    "timeWeek": 2285,
+    "timeMonth": 2128,
+    "timeYear": 3877,
     "dailyMinutesDown": {
       "2026-03-05": 68,
       "2026-03-07": 60,
@@ -393,7 +393,7 @@
       "2026-08-01": 36,
       "2026-08-08": 236,
       "2026-08-09": 144,
-      "2026-08-10": 139
+      "2026-08-10": 140
     }
   },
   {
@@ -401,17 +401,17 @@
     "url": "https://ja.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ja.scratch-wiki.info.ico",
     "slug": "japanese",
-    "status": "down",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "95.15%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "95.13%",
     "uptimeMonth": "82.20%",
     "uptimeYear": "94.91%",
-    "time": 3875,
-    "timeDay": 1098,
-    "timeWeek": 2428,
-    "timeMonth": 2077,
-    "timeYear": 3590,
+    "time": 3873,
+    "timeDay": 1632,
+    "timeWeek": 2444,
+    "timeMonth": 2090,
+    "timeYear": 3589,
     "dailyMinutesDown": {
       "2026-03-04": 34,
       "2026-03-05": 68,
@@ -497,7 +497,7 @@
       "2026-08-01": 31,
       "2026-08-08": 222,
       "2026-08-09": 135,
-      "2026-08-10": 134
+      "2026-08-10": 135
     }
   },
   {
@@ -505,17 +505,17 @@
     "url": "https://nl.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/nl.scratch-wiki.info.ico",
     "slug": "dutch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "95.43%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "96.56%",
     "time": 4638,
-    "timeDay": 1276,
-    "timeWeek": 2906,
-    "timeMonth": 2102,
-    "timeYear": 4509,
+    "timeDay": 1335,
+    "timeWeek": 2825,
+    "timeMonth": 2089,
+    "timeYear": 4505,
     "dailyMinutesDown": {
       "2026-03-07": 60,
       "2026-03-06": 6,
@@ -596,7 +596,7 @@
       "2026-08-01": 26,
       "2026-08-08": 206,
       "2026-08-09": 126,
-      "2026-08-10": 129
+      "2026-08-10": 130
     }
   },
   {
@@ -604,17 +604,17 @@
     "url": "https://ru.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/ru.scratch-wiki.info.ico",
     "slug": "russian",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "91.37%",
-    "uptimeWeek": "95.73%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "81.81%",
     "uptimeYear": "95.03%",
-    "time": 4018,
-    "timeDay": 1018,
-    "timeWeek": 1441,
-    "timeMonth": 1685,
-    "timeYear": 3611,
+    "time": 4015,
+    "timeDay": 1262,
+    "timeWeek": 1459,
+    "timeMonth": 1686,
+    "timeYear": 3609,
     "dailyMinutesDown": {
       "2026-03-05": 67,
       "2026-03-07": 60,
@@ -697,7 +697,7 @@
       "2026-08-01": 22,
       "2026-08-08": 191,
       "2026-08-09": 116,
-      "2026-08-10": 125
+      "2026-08-10": 126
     }
   },
   {
@@ -705,17 +705,17 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "91.72%",
-    "uptimeWeek": "96.02%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "96.01%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "96.38%",
-    "time": 4097,
-    "timeDay": 963,
-    "timeWeek": 1360,
-    "timeMonth": 1366,
-    "timeYear": 3952,
+    "time": 4073,
+    "timeDay": 1215,
+    "timeWeek": 1380,
+    "timeMonth": 1372,
+    "timeYear": 3949,
     "dailyMinutesDown": {
       "2026-03-04": 33,
       "2026-03-05": 67,
@@ -794,7 +794,7 @@
       "2026-08-01": 17,
       "2026-08-08": 181,
       "2026-08-09": 100,
-      "2026-08-10": 119
+      "2026-08-10": 120
     }
   },
   {
@@ -802,17 +802,17 @@
     "url": "https://hu.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/hu.scratch-wiki.info.ico",
     "slug": "hungarian",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "96.53%",
-    "time": 3631,
-    "timeDay": 1034,
-    "timeWeek": 2309,
-    "timeMonth": 1835,
-    "timeYear": 3612,
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "96.52%",
+    "time": 3632,
+    "timeDay": 1204,
+    "timeWeek": 2266,
+    "timeMonth": 1830,
+    "timeYear": 3609,
     "dailyMinutesDown": {
       "2026-03-05": 67,
       "2026-03-07": 60,
@@ -892,7 +892,7 @@
       "2026-08-01": 12,
       "2026-08-08": 172,
       "2026-08-09": 85,
-      "2026-08-10": 114
+      "2026-08-10": 115
     }
   },
   {
@@ -900,17 +900,17 @@
     "url": "https://test.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "92.41%",
-    "uptimeWeek": "96.60%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "82.73%",
     "uptimeYear": "95.34%",
-    "time": 3275,
-    "timeDay": 1032,
-    "timeWeek": 1957,
-    "timeMonth": 1524,
-    "timeYear": 3184,
+    "time": 3274,
+    "timeDay": 1545,
+    "timeWeek": 1994,
+    "timeMonth": 1545,
+    "timeYear": 3183,
     "dailyMinutesDown": {
       "2026-03-01": 78,
       "2026-03-04": 33,
@@ -992,7 +992,7 @@
       "2026-08-01": 7,
       "2026-08-08": 163,
       "2026-08-09": 72,
-      "2026-08-10": 109
+      "2026-08-10": 110
     }
   }
 ]
