@@ -200,19 +200,18 @@
     "url": "https://de.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/de.scratch-wiki.info.ico",
     "slug": "german",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "83.70%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "81.19%",
-    "uptimeYear": "94.85%",
-    "time": 4547,
-    "timeDay": 3654,
-    "timeWeek": 2111,
-    "timeMonth": 2164,
-    "timeYear": 4339,
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "81.18%",
+    "uptimeYear": "94.87%",
+    "time": 4546,
+    "timeDay": 3143,
+    "timeWeek": 2042,
+    "timeMonth": 2135,
+    "timeYear": 4334,
     "dailyMinutesDown": {
-      "2026-03-05": 68,
       "2026-03-07": 60,
       "2026-03-06": 7,
       "2026-03-08": 65,
@@ -294,7 +293,7 @@
       "2026-08-08": 250,
       "2026-08-09": 152,
       "2026-08-10": 146,
-      "2026-08-11": 199
+      "2026-08-11": 205
     }
   },
   {
@@ -808,7 +807,7 @@
     "timeDay": 1141,
     "timeWeek": 2178,
     "timeMonth": 1801,
-    "timeYear": 3610,
+    "timeYear": 3613,
     "dailyMinutesDown": {
       "2026-03-07": 60,
       "2026-03-06": 5,
@@ -896,19 +895,19 @@
     "url": "https://test.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "82.41%",
-    "uptimeYear": "95.32%",
-    "time": 3272,
-    "timeDay": 1479,
-    "timeWeek": 1816,
-    "timeMonth": 1533,
-    "timeYear": 3184,
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "82.40%",
+    "uptimeYear": "95.33%",
+    "time": 3270,
+    "timeDay": 1263,
+    "timeWeek": 1753,
+    "timeMonth": 1515,
+    "timeYear": 3180,
     "dailyMinutesDown": {
-      "2026-03-01": 50,
+      "2026-03-01": 11,
       "2026-03-04": 33,
       "2026-03-05": 67,
       "2026-03-07": 60,
@@ -989,7 +988,7 @@
       "2026-08-08": 163,
       "2026-08-09": 72,
       "2026-08-10": 110,
-      "2026-08-11": 144
+      "2026-08-11": 145
     }
   }
 ]
