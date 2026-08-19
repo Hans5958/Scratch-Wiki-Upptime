@@ -103,17 +103,17 @@
     "url": "https://en.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/en.scratch-wiki.info.ico",
     "slug": "english",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.21%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.20%",
     "time": 4281,
-    "timeDay": 6563,
-    "timeWeek": 4711,
-    "timeMonth": 3318,
-    "timeYear": 4001,
+    "timeDay": 5488,
+    "timeWeek": 4504,
+    "timeMonth": 3283,
+    "timeYear": 3998,
     "dailyMinutesDown": {
       "2026-03-22": 30,
       "2026-03-24": 471,
@@ -190,7 +190,7 @@
       "2026-08-11": 146,
       "2026-08-15": 109,
       "2026-08-18": 49,
-      "2026-08-19": 23
+      "2026-08-19": 58
     }
   },
   {
