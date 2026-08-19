@@ -888,17 +888,17 @@
     "url": "https://test.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/test.scratch-wiki.info.ico",
     "slug": "test",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "81.87%",
-    "uptimeYear": "95.32%",
-    "time": 3238,
-    "timeDay": 900,
-    "timeWeek": 1347,
-    "timeMonth": 1634,
-    "timeYear": 3095,
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "81.77%",
+    "uptimeYear": "95.31%",
+    "time": 3236,
+    "timeDay": 969,
+    "timeWeek": 1333,
+    "timeMonth": 1626,
+    "timeYear": 3093,
     "dailyMinutesDown": {
       "2026-03-08": 27,
       "2026-03-09": 36,
@@ -980,7 +980,7 @@
       "2026-08-13": 69,
       "2026-08-15": 92,
       "2026-08-18": 47,
-      "2026-08-19": 1
+      "2026-08-19": 43
     }
   }
 ]
