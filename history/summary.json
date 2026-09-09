@@ -114,7 +114,7 @@
     "timeDay": 1420,
     "timeWeek": 5978,
     "timeMonth": 5051,
-    "timeYear": 3170,
+    "timeYear": 3172,
     "dailyMinutesDown": {
       "2026-04-11": 26,
       "2026-04-13": 42,
@@ -210,7 +210,7 @@
     "timeDay": 3534,
     "timeWeek": 6241,
     "timeMonth": 3958,
-    "timeYear": 2991,
+    "timeYear": 2993,
     "dailyMinutesDown": {
       "2026-04-09": 292,
       "2026-04-11": 129,
@@ -310,7 +310,7 @@
     "timeDay": 48111,
     "timeWeek": 13718,
     "timeMonth": 6953,
-    "timeYear": 2957,
+    "timeYear": 2959,
     "dailyMinutesDown": {
       "2026-04-11": 129,
       "2026-04-13": 41,
@@ -405,7 +405,7 @@
     "timeDay": 4669,
     "timeWeek": 6642,
     "timeMonth": 4900,
-    "timeYear": 2797,
+    "timeYear": 2771,
     "dailyMinutesDown": {
       "2026-04-09": 291,
       "2026-04-11": 128,
@@ -505,7 +505,7 @@
     "timeDay": 52769,
     "timeWeek": 14582,
     "timeMonth": 6172,
-    "timeYear": 3149,
+    "timeYear": 3153,
     "dailyMinutesDown": {
       "2026-04-11": 25,
       "2026-04-13": 41,
@@ -603,7 +603,7 @@
     "timeDay": 12000,
     "timeWeek": 8259,
     "timeMonth": 6380,
-    "timeYear": 2715,
+    "timeYear": 2717,
     "dailyMinutesDown": {
       "2026-04-11": 126,
       "2026-04-13": 41,
@@ -691,17 +691,17 @@
     "url": "https://id.scratch-wiki.info",
     "icon": "https://icons.duckduckgo.com/ip3/id.scratch-wiki.info.ico",
     "slug": "indonesian",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "96.32%",
-    "time": 3880,
-    "timeDay": 14419,
-    "timeWeek": 9238,
-    "timeMonth": 3842,
-    "timeYear": 2658,
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "96.30%",
+    "time": 3894,
+    "timeDay": 14533,
+    "timeWeek": 9851,
+    "timeMonth": 4048,
+    "timeYear": 2677,
     "dailyMinutesDown": {
       "2026-04-09": 290,
       "2026-04-11": 126,
@@ -778,7 +778,7 @@
       "2026-08-22": 12,
       "2026-08-27": 725,
       "2026-08-30": 11,
-      "2026-09-09": 1
+      "2026-09-09": 122
     }
   },
   {
@@ -796,7 +796,7 @@
     "timeDay": 29607,
     "timeWeek": 11958,
     "timeMonth": 3563,
-    "timeYear": 2670,
+    "timeYear": 2672,
     "dailyMinutesDown": {
       "2026-03-26": 63,
       "2026-03-28": 12,
@@ -893,7 +893,7 @@
     "timeDay": 19509,
     "timeWeek": 9107,
     "timeMonth": 3558,
-    "timeYear": 2407,
+    "timeYear": 2409,
     "dailyMinutesDown": {
       "2026-03-28": 12,
       "2026-04-04": 37,
